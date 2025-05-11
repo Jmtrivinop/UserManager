@@ -1,0 +1,12 @@
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/bin/Debug/net8.0/UserManagement.Dom.deps.json
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/bin/Debug/net8.0/UserManagement.Dom.dll
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/bin/Debug/net8.0/UserManagement.Dom.pdb
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/UserManagement.Dom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/UserManagement.Dom.AssemblyInfoInputs.cache
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/UserManagement.Dom.AssemblyInfo.cs
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/UserManagement.Dom.csproj.CoreCompileInputs.cache
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/UserManagement.Dom.sourcelink.json
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/UserManagement.Dom.dll
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/refint/UserManagement.Dom.dll
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/UserManagement.Dom.pdb
+/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/Debug/net8.0/ref/UserManagement.Dom.dll
