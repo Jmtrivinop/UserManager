@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e7u3nZGmPK0=",
+  "dgSpecHash": "QMt2wGqng4I=",
   "success": true,
-  "projectFilePath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Api/UserManagement.Api.csproj",
+  "projectFilePath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Api/UserManagement.Api.csproj",
   "expectedPackageFiles": [
     "/Users/juanmartintrivino/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/juanmartintrivino/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",

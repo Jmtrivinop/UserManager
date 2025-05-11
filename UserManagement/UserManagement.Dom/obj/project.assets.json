@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/UserManagement.Dom.csproj",
+      "projectUniqueName": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Dom/UserManagement.Dom.csproj",
       "projectName": "UserManagement.Dom",
-      "projectPath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/UserManagement.Dom.csproj",
+      "projectPath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Dom/UserManagement.Dom.csproj",
       "packagesPath": "/Users/juanmartintrivino/.nuget/packages/",
-      "outputPath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/obj/",
+      "outputPath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Dom/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/juanmartintrivino/.nuget/NuGet/NuGet.Config"

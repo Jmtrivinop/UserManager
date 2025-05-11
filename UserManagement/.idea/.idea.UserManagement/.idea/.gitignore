@@ -13,3 +13,5 @@
 /dataSources.local.xml
 appsettings.json
 
+/bin/
+/obj/

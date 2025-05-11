@@ -1,0 +1,16 @@
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/bin/Release/net8.0/UserManagement.App.deps.json
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/bin/Release/net8.0/UserManagement.App.dll
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/bin/Release/net8.0/UserManagement.App.pdb
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/bin/Release/net8.0/UserManagement.Dom.dll
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/bin/Release/net8.0/UserManagement.Dom.pdb
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserManagement.App.csproj.AssemblyReference.cache
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserManagement.App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserManagement.App.AssemblyInfoInputs.cache
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserManagement.App.AssemblyInfo.cs
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserManagement.App.csproj.CoreCompileInputs.cache
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserManagement.App.sourcelink.json
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserMana.1AA9F88D.Up2Date
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserManagement.App.dll
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/refint/UserManagement.App.dll
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/UserManagement.App.pdb
+/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/obj/Release/net8.0/ref/UserManagement.App.dll

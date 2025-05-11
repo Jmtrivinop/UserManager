@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KN1mGMQzPN0=",
+  "dgSpecHash": "X5VHvphXm+E=",
   "success": true,
-  "projectFilePath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.App/UserManagement.App.csproj",
+  "projectFilePath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/UserManagement.App.csproj",
   "expectedPackageFiles": [
     "/Users/juanmartintrivino/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/juanmartintrivino/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BGEWlphZPK0=",
+  "dgSpecHash": "kJPKNHH8C7A=",
   "success": true,
-  "projectFilePath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Dom/UserManagement.Dom.csproj",
+  "projectFilePath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Dom/UserManagement.Dom.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

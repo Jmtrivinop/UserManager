@@ -3032,11 +3032,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Api/UserManagement.Api.csproj",
+      "projectUniqueName": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Api/UserManagement.Api.csproj",
       "projectName": "UserManagement.Api",
-      "projectPath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Api/UserManagement.Api.csproj",
+      "projectPath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Api/UserManagement.Api.csproj",
       "packagesPath": "/Users/juanmartintrivino/.nuget/packages/",
-      "outputPath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Api/obj/",
+      "outputPath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/juanmartintrivino/.nuget/NuGet/NuGet.Config"
@@ -3052,11 +3052,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.App/UserManagement.App.csproj": {
-              "projectPath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.App/UserManagement.App.csproj"
+            "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/UserManagement.App.csproj": {
+              "projectPath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.App/UserManagement.App.csproj"
             },
-            "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Infrastucture/UserManagement.Infrastucture.csproj": {
-              "projectPath": "/Users/juanmartintrivino/Documents/GitHub/ServicesDevelopment/Practices/02.CleanArchitecture/UserManagementApp/WebAPI/UserManagement/UserManagement.Infrastucture/UserManagement.Infrastucture.csproj"
+            "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Infrastucture/UserManagement.Infrastucture.csproj": {
+              "projectPath": "/Users/juanmartintrivino/Documents/GitHub/UserManager/UserManagement/UserManagement.Infrastucture/UserManagement.Infrastucture.csproj"
             }
           }
         }
